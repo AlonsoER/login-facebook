@@ -9,14 +9,14 @@ body {
     font-family: $fuente_principal;
     font-size: 1.6rem;
     line-height: 1.8;
-    background-color: $blanco;
+    background-color: $gris;
 }
 p {
     color: $negro;
     font-size: 2rem;
 }
 .contenedor {
-    width: 95%;
+    width: 75%;
     max-width: 120rem;
     margin: 0 auto;
 }

@@ -1,7 +1,15 @@
 // Colores
 $negro: #000000;
 $blanco: #ffffff;
+$gris: #f0f2f5;
+$azul: #166fe5;
+$verde: #36a420;
 
 // Fuente
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 $fuente_principal: 'Roboto', sans-serif;
+
+// Tamaño de Media Queries
+$telefono: 480px;
+$tablet: 748px;
+$desktop: 1024px;
